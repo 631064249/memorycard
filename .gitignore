@@ -1,1 +1,5 @@
 proj.win32
+proj.ios_mac
+*.apk
+*.ap_
+*.d
